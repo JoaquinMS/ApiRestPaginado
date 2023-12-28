@@ -1,6 +1,6 @@
-# Tp4 Api Rest Paginado
+Api Rest Paginado
 
-Trabajo Practico
+Estructura de back, en base a un modelo de diagrama pequeño con uso de Dockerfile (Almacenamiento de contenedor).
 
 # Carpeta Build con Libs:
 
